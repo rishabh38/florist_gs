@@ -1,0 +1,57 @@
+
+export const translations = {
+  en: {
+    home: "Home",
+    about: "About",
+    products: "Products",
+    contact: "Contact",
+    search: "Search for flowers...",
+    cart: "Cart",
+    wishlist: "Wishlist",
+    profile: "Profile",
+    login: "Login",
+    logout: "Logout",
+    checkout: "Checkout",
+    add_to_cart: "Add to Cart",
+    best_sellers: "Best Sellers",
+    new_arrivals: "New Arrivals",
+    fun_fact: "Fun Fact",
+    rupees: "₹"
+  },
+  hi: {
+    home: "मुख्य पृष्ठ",
+    about: "हमारे बारे में",
+    products: "उत्पाद",
+    contact: "संपर्क करें",
+    search: "फूलों की खोज करें...",
+    cart: "कार्ट",
+    wishlist: "इच्छा सूची",
+    profile: "प्रोफ़ाइल",
+    login: "लॉगिन",
+    logout: "लॉगआउट",
+    checkout: "चेकआउट",
+    add_to_cart: "कार्ट में जोड़ें",
+    best_sellers: "सबसे ज्यादा बिकने वाले",
+    new_arrivals: "नए उत्पाद",
+    fun_fact: "मजेदार तथ्य",
+    rupees: "₹"
+  },
+  gu: {
+    home: "હોમ",
+    about: "અમારા વિશે",
+    products: "ઉત્પાદનો",
+    contact: "સંપર્ક",
+    search: "ફૂલો શોધો...",
+    cart: "કાર્ટ",
+    wishlist: "વિશ લિસ્ટ",
+    profile: "પ્રોફાઇલ",
+    login: "લોગિન",
+    logout: "લોગઆઉટ",
+    checkout: "ચેકઆઉટ",
+    add_to_cart: "કાર્ટમાં ઉમેરો",
+    best_sellers: "શ્રેષ્ઠ વેચાણ",
+    new_arrivals: "નવું આગમન",
+    fun_fact: "રમુજી હકીકત",
+    rupees: "₹"
+  }
+};

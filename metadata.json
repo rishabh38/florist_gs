@@ -1,0 +1,7 @@
+{
+  "name": "Florist",
+  "description": "A premium flower shop experience with multi-language support, featuring a wide range of bouquets and floral arrangements for the Indian market.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
